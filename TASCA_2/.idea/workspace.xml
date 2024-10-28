@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0077083-ccec-492b-ae3f-aaf07ac09a12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EX1_Builder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EX1_Builder/PizzaBuilder/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EX1_Builder/PizzaBuilder/PizzaBbq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EX1_Builder/PizzaBuilder/PizzaBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EX1_Builder/PizzaBuilder/PizzaCarbonara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EX1_Builder/PizzaBuilder/PizzaHawaiian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EX1_Builder/PizzaMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EX1_Builder/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EX1_Builder/Types/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EX1_Builder/Types/Size.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nC9MXCuhovvv2jaDzouY6D1Iwf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TASCA_2 [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="EX1_Builder.PizzaBuilder" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0077083-ccec-492b-ae3f-aaf07ac09a12" name="Changes" comment="" />
+      <created>1728466145346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728466145346</updated>
+    </task>
+    <servers />
+  </component>
+</project>

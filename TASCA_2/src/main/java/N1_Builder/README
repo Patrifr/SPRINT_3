@@ -1,0 +1,23 @@
+********** Builder **********
+
+     - Desenvolupa un sistema de gestió de comandes de pizzes utilitzant el patró de disseny
+     Builder en Java. El sistema ha de permetre la creació de diferents tipus de pizzes
+     amb configuracions de mida, massa i ingredients diferents.
+
+            1. Defineix una classe Pizzas.PizzaTypes.Pizza amb els següents atributs:
+                      * size (mida)
+                      * dough (tipus de massa)
+                      * toppings (ingredients)
+
+            2. Crea una interfície PizzaTypes.PizzaBuilder amb els mètodes necessaris per configurar la mida,
+               la massa i els ingredients d'una pizza.
+
+            3. Implementa una o més classes que actuïn com a constructors concrets (PizzaTypes.PizzaBuilder)
+               per a diferents tipus de pizzes. Per exemple, podries tenir un constructor per
+               a la pizza hawaiana, un altre per a la pizza vegetariana, etc.
+
+            4. Desenvolupa una classe MestrePizzer que rebi un PizzaTypes.PizzaBuilder i que permeti construir pizzes
+               de manera específica.
+
+            5. En el programa principal (Main), crea instàncies de PizzaTypes.PizzaBuilder i de MestrePizzer, i
+               utilitza'ls per construir pizzes amb diferents configuracions.
